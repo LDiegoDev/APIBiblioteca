@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XeQ1XCeStRrSLCu+BCRyouIGS3uIzok/8l0rBwhsm7KAzX+x4PC7VLEkt2Kdq6nmYHfuuPbtet7DiLb88EMorg==",
+  "success": true,
+  "projectFilePath": "C:\\BibliotecaApi\\src\\Biblioteca.Business\\Biblioteca.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lk20\\.nuget\\packages\\fluentvalidation\\9.4.0\\fluentvalidation.9.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

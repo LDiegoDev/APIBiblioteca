@@ -1,0 +1,15 @@
+C:\BibliotecaApi\src\Biblioteca.Data\bin\Debug\net5.0\Biblioteca.Data.deps.json
+C:\BibliotecaApi\src\Biblioteca.Data\bin\Debug\net5.0\Biblioteca.Data.dll
+C:\BibliotecaApi\src\Biblioteca.Data\bin\Debug\net5.0\ref\Biblioteca.Data.dll
+C:\BibliotecaApi\src\Biblioteca.Data\bin\Debug\net5.0\Biblioteca.Data.pdb
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.AssemblyInfoInputs.cache
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.AssemblyInfo.cs
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.csproj.CoreCompileInputs.cache
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.dll
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\ref\Biblioteca.Data.dll
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.pdb
+C:\BibliotecaApi\src\Biblioteca.Data\bin\Debug\net5.0\Biblioteca.Business.dll
+C:\BibliotecaApi\src\Biblioteca.Data\bin\Debug\net5.0\Biblioteca.Business.pdb
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.csprojAssemblyReference.cache
+C:\BibliotecaApi\src\Biblioteca.Data\obj\Debug\net5.0\Biblioteca.Data.csproj.CopyComplete

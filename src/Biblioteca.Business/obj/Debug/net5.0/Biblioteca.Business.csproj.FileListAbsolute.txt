@@ -1,0 +1,11 @@
+C:\BibliotecaApi\src\Biblioteca.Business\bin\Debug\net5.0\Biblioteca.Business.deps.json
+C:\BibliotecaApi\src\Biblioteca.Business\bin\Debug\net5.0\Biblioteca.Business.dll
+C:\BibliotecaApi\src\Biblioteca.Business\bin\Debug\net5.0\ref\Biblioteca.Business.dll
+C:\BibliotecaApi\src\Biblioteca.Business\bin\Debug\net5.0\Biblioteca.Business.pdb
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\Biblioteca.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\Biblioteca.Business.AssemblyInfoInputs.cache
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\Biblioteca.Business.AssemblyInfo.cs
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\Biblioteca.Business.csproj.CoreCompileInputs.cache
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\Biblioteca.Business.dll
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\ref\Biblioteca.Business.dll
+C:\BibliotecaApi\src\Biblioteca.Business\obj\Debug\net5.0\Biblioteca.Business.pdb
