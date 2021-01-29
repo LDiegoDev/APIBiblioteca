@@ -11,10 +11,10 @@ namespace Biblioteca.Business.Models
         public string Nome { get; set; }
         public string Documento { get; set; }
         public TipoEditora TipoEditora { get; set; }
-        public Endereco Endereco { get; set; }
         public bool Ativo { get; set; }
 
         /* EF Relations */
+        public Endereco Endereco { get; set; }
         public IEnumerable<Livro> Livros { get; set; }
         public IEnumerable<Autor> Autores { get; set; }
     }
